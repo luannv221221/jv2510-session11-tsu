@@ -1,0 +1,13 @@
+Cần có Class
+ thuoc tinh key (chứa từ khóa)
+ thuoc tinh value (chua gia tri)
+
+
+
+ Tao 1 doi tuong
+
+ Demo1 ==> key = 1, value = 1
+ demo2 ==> key = 2, value = 1
+
+  Demo3 ==> key = "name", value = "Ngyen Van A"
+  demo4 ==> key = "name", value = "Nguyen Van B"
